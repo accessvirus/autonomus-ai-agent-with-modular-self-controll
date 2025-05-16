@@ -1,4 +1,4 @@
-initial custom build al agent 
+initial custom build al agent , it need some debuging in gemini api ...
 
 this report summarizes the key aspects of the [`main.py`](main.py) file, which serves as the main entry point for the Agent007 application.
 
