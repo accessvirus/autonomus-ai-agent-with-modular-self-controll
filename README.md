@@ -1,4 +1,6 @@
- report summarizes the key aspects of the [`main.py`](main.py) file, which serves as the main entry point for the Agent007 application.
+initial custom build al agent 
+
+this report summarizes the key aspects of the [`main.py`](main.py) file, which serves as the main entry point for the Agent007 application.
 
 ## Purpose
 
