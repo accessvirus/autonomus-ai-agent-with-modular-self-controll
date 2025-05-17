@@ -16,7 +16,7 @@ SYS_CONF = {
     "state_file_path": "C:\\Users\\m.2 SSD\\Desktop\\lastagent\\agent006\\agent006_state.json",
     "project_root": str(Path(__file__).parent.parent.resolve()), # Points to C:\Users\m.2 SSD\Desktop\lastagent
 
-    "gemini_api_key": "AIzaSyDiAKSSuMOkzKoVgcpXU5oCMeVaYd5QTRM", # CRITICAL: Replace with your actual key or load from env
+    "gemini_api_key": "........add your key here .............", # CRITICAL: Replace with your actual key or load from env
     "gemini_model": "gemini-2.5-pro-exp-03-25", # Using the specified experimental model
 
     # New config options for agent006 might go here
